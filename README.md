@@ -16,4 +16,4 @@ $ python3 run.py -img=path/to/image -md=path/to/model_detection -ml=path/to/mode
 в папке examples есть примеры распознавания
 
 ## Результат работы
-![image](https://drive.google.com/uc?export=view&id=1-6WZzo9WdeLc1cq9BMUClt2BWq4wNEZO)
+![image](https://github.com/kirrya95/tulahack/blob/main/examples/res.gif)
